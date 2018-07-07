@@ -2,9 +2,9 @@
 
  "sample":[
 		{
-        "app_name": "Love Photo Frames",
-		"app_url": "https://play.google.com/store/apps/details?id=com.appspark.lovephotoframes",
-		"app_icon": "https://lh3.googleusercontent.com/1A8p_Dwkx_vJ2CQ8G0Vr3-QCMM1Kb_SF4EfEt4PDSzzjNyFOKiXWlXZcHv2kDAs6Kyk=s180-rw"
+        "app_name": "Beach Echo Mirror",
+		"app_url": "https://play.google.com/store/apps/details?id=com.appspark.beachechomirror",
+		"app_icon": "https://lh3.googleusercontent.com/b7JOyvDuYTIIu8ttKJ7bGr_kGc91QKrzS6uUXJpYydYBfhnqtN2GYB5hk634stu90Q=s180-rw"
     },{
 	    "app_name": "Flash On Call",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appspark.flashoncall",
@@ -50,6 +50,10 @@
         "app_name": "Nature Photo Frames",
 		"app_url": "https://play.google.com/store/apps/details?id=com.appspark.naturephotoframes",
 		"app_icon": "https://lh3.googleusercontent.com/Nk9yIlFXnXrb1IcnRV9mHVKbRO_3JJFNY8_u4QQykzFkruzXRUXxhzQhIPmPtieAJrsT=s180-rw"
+    },{
+        "app_name": "Love Photo Frames",
+		"app_url": "https://play.google.com/store/apps/details?id=com.appspark.lovephotoframes",
+		"app_icon": "https://lh3.googleusercontent.com/1A8p_Dwkx_vJ2CQ8G0Vr3-QCMM1Kb_SF4EfEt4PDSzzjNyFOKiXWlXZcHv2kDAs6Kyk=s180-rw"
     }
 		
 	]
